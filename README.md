@@ -7,6 +7,7 @@
 [![npm downloads](https://img.shields.io/npm/dm/axios.svg?style=flat-square)](http://npm-stat.com/charts.html?package=axios)
 [![gitter chat](https://img.shields.io/gitter/room/mzabriskie/axios.svg?style=flat-square)](https://gitter.im/mzabriskie/axios)
 [![code helpers](https://www.codetriage.com/axios/axios/badges/users.svg)](https://www.codetriage.com/axios/axios)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Faxios.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Faxios?ref=badge_shield)
 
 Promise based HTTP client for the browser and node.js
 
@@ -682,3 +683,6 @@ axios is heavily inspired by the [$http service](https://docs.angularjs.org/api/
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fzt2%2Faxios.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fzt2%2Faxios?ref=badge_large)
